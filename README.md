@@ -16,8 +16,8 @@ This bot is developing using the Lego EV3 brick and Lego EV3 Mindstorm software.
 <img src = "https://user-images.githubusercontent.com/71589098/151459656-b6c39323-4961-4daf-befd-47c72d76ea2b.jpg" width="250" height="300">
 
 # Performance Evaluation
-<img src = "https://user-images.githubusercontent.com/71589098/160279540-f2eeb278-5668-494f-9982-ab8bcb1bf0a2.PNG" width="250" height="300">
-<img src = "https://user-images.githubusercontent.com/71589098/160279547-7e37684a-3537-47e0-80c6-2bc22dc40e93.PNG" width="250" height="300">
+<img src = "https://user-images.githubusercontent.com/71589098/160279540-f2eeb278-5668-494f-9982-ab8bcb1bf0a2.PNG" width="450" height="300">
+<img src = "https://user-images.githubusercontent.com/71589098/160279547-7e37684a-3537-47e0-80c6-2bc22dc40e93.PNG" width="750" height="300">
 
 
 
