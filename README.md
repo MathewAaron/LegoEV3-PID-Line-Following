@@ -1,8 +1,6 @@
 # LegoEV3-PID-Line-Following
 This bot is developing using the Lego EV3 brick and Lego EV3 Mindstorm software. A PID controller is developed to make the bot move along a black line.
 
-### Platooning Video
-<img src = "https://github.com/MathewAaron/LegoEV3-PID-Line-Following/blob/1ef8311f64a31007461cb51e518905a7f3f1331d/platooning.mp4" width="650" height="300">
 
 ### Robot controller design
 <img src = "https://user-images.githubusercontent.com/71589098/151459832-e28ebe18-f97d-44d1-bcd2-aff14addc17e.png" width="500" height="300">
